@@ -4,7 +4,7 @@ Olá! Aqui estão todos os meus certificados! Pretendo aumentar ainda mais esse 
 ## Fundamentos de python e aplicações
 ![Capturar5](https://github.com/GabrielleMarchioli/Certificados-de-cursos/assets/109180231/fc2e4d72-b1b4-48ec-89ca-a7f0c4b97ee2)
 
-##Bootcamp ciência de dados - unimed Belo Horizonte
+## Bootcamp ciência de dados - unimed Belo Horizonte
 ![Capturar6](https://github.com/GabrielleMarchioli/Certificados-de-cursos/assets/109180231/485ef7a5-d876-40f1-9c68-1829db60291f)
 
 ## Bootcamp Orange tech - Banco inter - front end
