@@ -1,4 +1,4 @@
-# Certificados-de-cursos
+# Certificados de cursos
 Olá! Aqui estão todos os meus certificados! Pretendo aumentar ainda mais esse conteúdo!
 
 ## Fundamentos de python e aplicações
